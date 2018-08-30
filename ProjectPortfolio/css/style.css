@@ -66,6 +66,15 @@ h1 {
 .nav {
     margin: 0px;
     padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+  
+  .nav > li {
+    text-align: center;
+    line-height: 75px;
+    padding: 0px 20px;
+    font-size: 25px;
 }
 
 ul {
