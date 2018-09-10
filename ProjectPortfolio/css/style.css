@@ -13,6 +13,7 @@ body {
 
 /*top*/
 #name {
+    height: 10vh;
     width: 100%;
     background-color:#ffffff;
     margin: 0px;
@@ -28,7 +29,7 @@ h1 {
 /*slide*/
 #slides {
     position: relative;
-    height: 86vh;
+    height: 80vh;
     padding: 0px;
     margin: 0px;
     list-style-type: none;
@@ -79,6 +80,7 @@ h1 {
 
 /*nav*/
 .nav {
+    height: 10vh;
     margin: 0px;
     padding: 10px;
     display: flex;
@@ -163,7 +165,4 @@ li a:hover {
     height: 10em;
     background: #333;
 }
-
-
-
 
